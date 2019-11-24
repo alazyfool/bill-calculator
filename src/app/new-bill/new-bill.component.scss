@@ -1,0 +1,30 @@
+.wrapper {
+    padding: 20px;
+    mat-form-field {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .metadata {
+        .bill-title {
+            width: 100%;
+        }
+        .paid-by {
+            float: right;
+        }
+    }
+
+    .bill-content {
+        .add-item-button {
+            float: right;
+        }
+        .calculate-bill {
+            width: 20%;
+        }
+    }
+    .bill-calculation {
+        table {
+            width: 50%;
+        }
+    }
+}
+

@@ -1,0 +1,377 @@
+{
+  "bill": [
+    {
+      "dateOfPurchase": "2019-11-24T07:11:36.487Z",
+      "paidBy": {},
+      "title": "",
+      "items": [
+        {
+          "id": 1,
+          "name": "Harpic",
+          "price": 159,
+          "quantity": 1,
+          "contributors": [
+            {
+              "id": 1,
+              "name": "Shrikant",
+              "upi": "something@ybl.com",
+              "contri": 90
+            },
+            {
+              "id": 2,
+              "name": "Adarsha",
+              "upi": "adarsha@ybl.com",
+              "contri": 65.5
+            },
+            {
+              "id": 3,
+              "name": "Ojas",
+              "upi": "ojas@ybl.com",
+              "contri": 102.5
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Sabzi",
+          "price": 74,
+          "quantity": 1,
+          "contributors": [
+            {
+              "id": 1,
+              "name": "Shrikant",
+              "upi": "something@ybl.com",
+              "contri": 90
+            },
+            {
+              "id": 3,
+              "name": "Ojas",
+              "upi": "ojas@ybl.com",
+              "contri": 102.5
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Ball",
+          "price": 25,
+          "quantity": 1,
+          "contributors": [
+            {
+              "id": 2,
+              "name": "Adarsha",
+              "upi": "adarsha@ybl.com",
+              "contri": 65.5
+            },
+            {
+              "id": 3,
+              "name": "Ojas",
+              "upi": "ojas@ybl.com",
+              "contri": 102.5
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        }
+      ],
+      "id": 1
+    },
+    {
+      "dateOfPurchase": "2019-11-24T07:20:52.491Z",
+      "paidBy": {},
+      "title": "",
+      "items": [
+        {
+          "id": 1,
+          "name": "Harpic",
+          "price": 150,
+          "quantity": 1,
+          "contributors": [
+            {
+              "id": 1,
+              "name": "Shrikant",
+              "upi": "something@ybl.com",
+              "contri": 50
+            },
+            {
+              "id": 2,
+              "name": "Adarsha",
+              "upi": "adarsha@ybl.com",
+              "contri": 50
+            },
+            {
+              "id": 3,
+              "name": "Ojas",
+              "upi": "ojas@ybl.com",
+              "contri": 50
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        }
+      ],
+      "id": 2
+    },
+    {
+      "dateOfPurchase": "2019-11-24T07:34:16.824Z",
+      "paidBy": {},
+      "title": "",
+      "items": [
+        {
+          "id": 1,
+          "name": "Harpic",
+          "price": 150,
+          "quantity": 1,
+          "contributors": [
+            {
+              "id": 1,
+              "name": "Shrikant",
+              "upi": "something@ybl.com",
+              "contri": 50
+            },
+            {
+              "id": 2,
+              "name": "Adarsha",
+              "upi": "adarsha@ybl.com",
+              "contri": 50
+            },
+            {
+              "id": 3,
+              "name": "Ojas",
+              "upi": "ojas@ybl.com",
+              "contri": 50
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        }
+      ],
+      "id": 3
+    },
+    {
+      "dateOfPurchase": "2019-11-24T07:35:46.730Z",
+      "paidBy": {},
+      "title": "",
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 2,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 3,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 4,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 5,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 6,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 7,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 8,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 9,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 10,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 11,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 12,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 13,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        },
+        {
+          "id": 14,
+          "name": "",
+          "price": 0,
+          "quantity": 1,
+          "contributors": []
+        }
+      ],
+      "id": 4
+    },
+    {
+      "dateOfPurchase": "2019-11-24T08:07:39.858Z",
+      "paidBy": {},
+      "title": "",
+      "items": [
+        {
+          "id": 1,
+          "name": "Something",
+          "price": 150,
+          "quantity": 1,
+          "contributors": [
+            {
+              "id": 2,
+              "name": "Adarsha",
+              "upi": "adarsha@ybl.com",
+              "contri": 225
+            },
+            {
+              "id": 3,
+              "name": "Ojas",
+              "upi": "ojas@ybl.com",
+              "contri": 225
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Something Else",
+          "price": 450,
+          "quantity": 1,
+          "contributors": [
+            {
+              "id": 1,
+              "name": "Shrikant",
+              "upi": "something@ybl.com",
+              "contri": 150
+            },
+            {
+              "id": 2,
+              "name": "Adarsha",
+              "upi": "adarsha@ybl.com",
+              "contri": 225
+            },
+            {
+              "id": 3,
+              "name": "Ojas",
+              "upi": "ojas@ybl.com",
+              "contri": 225
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "dateOfPurchase": "2019-11-24T08:44:17.963Z",
+      "paidBy": {},
+      "title": "",
+      "items": [
+        {
+          "name": "Harpic",
+          "price": 150,
+          "quantity": 1,
+          "contributors": [
+            {
+              "id": 1,
+              "name": "Shrikant",
+              "upi": "something@ybl.com",
+              "contri": 50
+            },
+            {
+              "id": 2,
+              "name": "Adarsha",
+              "upi": "adarsha@ybl.com",
+              "contri": 50
+            },
+            {
+              "id": 3,
+              "name": "Ojas",
+              "upi": "ojas@ybl.com",
+              "contri": 50
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Shrikant",
+      "upi": "something@ybl.com"
+    },
+    {
+      "id": 2,
+      "name": "Adarsha",
+      "upi": "adarsha@ybl.com"
+    },
+    {
+      "id": 3,
+      "name": "Ojas",
+      "upi": "ojas@ybl.com"
+    }
+  ]
+}

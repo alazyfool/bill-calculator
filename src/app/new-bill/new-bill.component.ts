@@ -39,7 +39,9 @@ export class NewBillComponent implements OnInit {
 
     this.route.params.subscribe(params => {
       const billId = +params.billId; // (+) converts string 'id' to a number
-      this.setBillDetails(billId);
+      if (billId) {
+        this.setBillDetails(billId);
+      }
    });
 
   }

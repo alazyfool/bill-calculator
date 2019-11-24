@@ -11,15 +11,15 @@ export class AppService {
   constructor(private httpClient: HttpClient) { }
 
   public getAllUsers(): Observable<User[]> {
-    return this.httpClient.get<User[]>('http://localhost:3000/users');
+    return this.httpClient.get<User[]>('http://localhost:4000/users');
   }
 
   public postBill(bill: Bill): Observable<Bill>  {
-    return this.httpClient.post<Bill>('http://localhost:3000/bill', bill);
+    return this.httpClient.post<Bill>('http://localhost:4000/bill', bill);
   }
 
   public getBill(billNo: number): Observable<Bill>  {
-    return this.httpClient.get<Bill>('http://localhost:3000/bill/' + billNo);
+    return this.httpClient.get<Bill>('http://localhost:4000/bill/' + billNo);
   }
 
 }

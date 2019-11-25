@@ -12,3 +12,4 @@
 * optimize calculation - the current implementation is a lame one
 * use AWS lambda to process stuffs and store in backend (probably Dynamo DB)
 * edit bill functionality - would require login functionality to be implemented first
+* generate monthly report for expenses for each user

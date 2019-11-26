@@ -1,7 +1,7 @@
 # DmartBillFrontend
 
 
-## Modification/Changes/Enhancements
+## Modifications/Enhancements
 * Integration with Google Pay API - 'Request' button to request all the contributors at once via API
 * Add Groups - groups like 'A-601', 'A-301' in contributors dropdown, when selected would select all the members of the group as contributors
 * Contributors multiselect should have a search
